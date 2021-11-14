@@ -1,4 +1,4 @@
-import { server } from '../../../config'
+import { server } from '../../../config.js'
 import { useRouter } from 'next/router'
 import Link from 'next/link'
 

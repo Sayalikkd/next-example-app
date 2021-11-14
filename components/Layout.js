@@ -1,6 +1,6 @@
-import Nav from './Nav'
-import Meta from './Meta'
-import Header from './Header'
+import Nav from './Nav.js'
+import Meta from './Meta.js'
+import Header from './Header.js'
 import styles from '../styles/Layout.module.css'
 
 const Layout = ({children}) => {

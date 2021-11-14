@@ -1,6 +1,6 @@
-import { server } from '../config'
+import { server } from '../config.js'
 
-import ArticleList from '../components/ArticleList'
+import ArticleList from '../components/ArticleList.js'
 
 export default function Home({articles}) {
   
