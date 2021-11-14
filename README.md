@@ -32,4 +32,8 @@ begin by typing:
 to deploy on production :
 ```
 yarn add serve
-yarn serve -s build -p 8000```
+yarn serve -s build -p 8000
+```
+Project adapted from: 
+
+[https://www.youtube.com/watch?v=mTz0GXj8NN0] 
